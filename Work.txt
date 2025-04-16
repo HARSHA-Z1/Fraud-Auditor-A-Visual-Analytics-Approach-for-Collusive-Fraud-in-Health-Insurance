@@ -1,0 +1,41 @@
+Service Provider
+
+Login,
+Browse Insurance Claim Datasets and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Fraud In Health Insurance, 
+View Fraud In Health Insurance Ratio, 
+Download Predicted Data Sets, 
+View Fraud In Health Insurance Ratio Results, 
+View All Remote Users,
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+Predict Fraud in Health Insurance Status,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+ClaimID,	
+ClaimDt,	
+Provider,	
+Sun _ Insured,	
+InscClaimAmtReimbursed,	
+AttendingPhysician,	
+ClmDiagnosisCode _ 1,	
+Claimed _ Amount,	
+Glucose,	
+BloodPressure,	
+SkinThickness,	
+Insulin,	
+BMI,	
+DiabetesPedigreeFunction,	
+Age,
+Prediction.
+
